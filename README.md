@@ -143,3 +143,5 @@ println!("\nDigest: {} tiles, {} bytes", digest.tile_count(), digest.size());
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
